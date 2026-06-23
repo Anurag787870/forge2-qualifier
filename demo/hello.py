@@ -1,1 +1,5 @@
 print("Hello Forge 2")
+print("Hello Forge 2")
+print("Participant: Anurag Yadav")
+print("Slack Connected")
+print("Groq API Ready")
