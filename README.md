@@ -69,8 +69,8 @@ The project currently demonstrates:
 
 ✅ AI Code Generation Working
 
-🔄 Screenshots Collection
+✅ Screenshots Collection
 
-🔄 Demo Video Recording
+✅ Demo Video Recording
 
 🔄 Final Submission
