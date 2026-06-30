@@ -73,4 +73,4 @@ The project currently demonstrates:
 
 ✅ Demo Video Recording
 
-🔄 Final Submission
+✅  Final Submission
